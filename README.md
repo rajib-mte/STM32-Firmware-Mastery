@@ -1,4 +1,4 @@
-# 🚀 STM32 Firmware Engineering Roadmap
+# STM32 Firmware Engineering Roadmap
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-ARM%20Cortex--M-blue">
